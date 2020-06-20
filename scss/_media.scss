@@ -1,0 +1,222 @@
+@media (max-width: 1044px) {
+    .wrapper {
+        padding: 0 10px;
+    }
+    .home {
+        margin-bottom: 10px;
+    }
+    .forma {
+        width: 46.8%;
+        margin-left: 53.2%;
+        margin-top: -410px;
+    }
+    .columnleft {
+        width: 53.2%;
+        padding-right: 10px;
+    }
+    .travelclass {
+        font-size: 65px;
+    }
+    .beautifulclass {
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .firstfloor {
+        margin-bottom: 100px;
+    }
+    .htop {
+        max-width: 53.2%;
+        line-height: 60px;
+    }
+    .cards {
+        flex-wrap: wrap;
+    }
+    .card {
+        margin-bottom: 20px;
+        width: calc(50% - 20px);
+    }
+    .pic {
+        margin: 0 auto;
+    }
+    .insidep {
+        margin-top: 40px;
+    }
+    .pstory {
+        margin-right: 20px;
+    }
+    .btnstory {
+        padding: 23px 30px 23px 30px;
+    }
+    .prices {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .price {
+        margin-bottom: 20px;
+        width: calc(50% - 20px);
+        max-width: 350px;
+    }
+    .price:first-child {
+        margin-right: 20px;
+    }
+    .pricecentre {
+        order: 1;
+    }
+    .articles {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 100px;
+    }
+    .leftside {
+        margin-bottom: 40px;
+    }
+    .logodown {
+        position: static;
+        padding: 20px;
+        margin: 0;
+        text-align: right;
+    }
+    .allrightsreserved {
+        padding-top: 10px;
+        padding-bottom: 64px;
+        text-align: left;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .firstfloor {
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .nextfloor {
+        text-align: center;
+    }
+    .columnleft {
+        width: 100%;
+        max-width: 100%;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .travelclass {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .beautifulclass {
+        font-size: 50px;
+        line-height: 60px;
+        margin-left: 10px;
+    }
+    .forma {
+        position: static;
+        width: 100%;
+        max-width: 400px;
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .abouttravel {
+        padding-bottom: 30px;
+        max-width: 100%;
+    }
+    .hrequest {
+        padding-top: 33px;
+    }
+    .acception {
+        padding-left: 23px;
+    }
+    label:before {
+        margin-left: 4px;
+    }
+    .opasity {
+        padding-bottom: 50px;
+    }
+    .htop {
+        max-width: 100%;
+        text-align: center;
+    }
+    .card {
+        width: 100%;
+    }
+    .ourstory {
+        flex-direction: column;
+    }
+    .pstory {
+        margin-right: 0px;
+        width: 100%;
+    }
+    .btnstory {
+        padding: 23px 30px 23px 30px;
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .prices {
+        flex-direction: column;
+    }
+    .price {
+        max-width: 400px;
+        min-width: 300px;
+    }
+    .price:first-child {
+        margin-right: 0px;
+    }
+    .leftside {
+        max-width: 90%;
+    }
+    .imageup {
+        position: static;
+        margin: 0 auto;
+    }
+    .secimageup {
+        position: static;
+        margin: 0 auto;
+    }
+    .articledown {
+        padding: 26px 26px 27px 26px;
+    }
+    .testimonial {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 32px;
+    }
+    .comment {
+        max-width: 100%;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .rightside {
+        text-align: center;
+    }
+    .gallery {
+        font-size: 40px;
+        line-height: 50px;
+        margin: 0 0 36px 0;
+    }
+    .pictures {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 16px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .picend {
+        margin: 20px;
+    }
+    .viewmore {
+        margin: 0 auto;
+    }
+    .logodown {
+        position: static;
+        margin: 0;
+    }
+    .allrightsreserved {
+        padding-top: 10px;
+        padding-bottom: 54px;
+        text-align: center;
+    }
+}
